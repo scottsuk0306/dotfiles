@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Define variables
+# ref: https://repo.anaconda.com/miniconda/
 MINICONDA_URL="https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh"
 MINICONDA_FILE="Miniconda3-latest-Linux-x86_64.sh"
 
