@@ -1,5 +1,6 @@
 # dotfiles
 
+Setup and sync the environment with ease.
 
 ## Features
 1. .gitconfig
