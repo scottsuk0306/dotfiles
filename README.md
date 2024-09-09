@@ -13,3 +13,16 @@ Setup and sync the environment with ease.
 - [ ] .tmux configs
 - [ ] .vscode configs
 - [ ] NVIDIA GPU configs
+
+## Applications
+
+- [Raycast](https://www.raycast.com/)
+
+
+## VSCode setup
+ref: https://medium.com/ordinaryindustries/the-ultimate-vs-code-setup-for-python-538026b34d94
+
+```json
+# settings.json
+
+```
